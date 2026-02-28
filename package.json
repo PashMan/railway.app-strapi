@@ -30,9 +30,7 @@
   },
 "engines": {
   "node": ">=20.0.0"
-}
-  },
+},
   "strapi": {
     "uuid": "fbaf61cd-dcdc-45ae-bf43-8781f5861c55"
   }
-}
